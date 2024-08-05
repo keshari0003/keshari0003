@@ -1,7 +1,7 @@
-Hi  I am Ankit Keshari
+✌Hi  I am Ankit Keshari
 Data Analyst Aspirants
 Here For Project Showcase
-Skills:
+**Skills:
 	Data Analysis
 	SQL
 	Power BI
@@ -9,4 +9,4 @@ Skills:
 	Data Visualization
 	DAX
 	Power Query
-	Python-Numpy & Pandas
+	Python-Numpy & Pandas**
